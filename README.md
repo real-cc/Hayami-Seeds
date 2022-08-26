@@ -1,2 +1,2 @@
-# Tabloft-Seeds
-The recommended Apps &amp; URLs for Tabloft
+# Tilely-Seeds
+The recommended Apps &amp; URLs for Tilely App
