@@ -1,2 +1,2 @@
-# Tilely-Seeds
-The recommended Apps &amp; URLs for Tilely App
+# Hayami-Seeds
+The recommended Apps &amp; URLs for Hayami App
