@@ -1,10 +1,10 @@
 # Default Templates for Tabloft 
 
-# VER 0.012
+# VER 0.015
 
 ## Images
 
-### Google Image
+### Google Images
 
 https://www.google.com/imghp
 https://images.google.com/images?q=%keywords%
