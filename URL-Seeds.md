@@ -1,6 +1,5 @@
-# Default Templates for Tabloft 
-
-# VER 0.015
+# Default Templates for Hayami
+# VER 0.016
 
 ## Images
 
@@ -345,6 +344,5 @@ https://onedrive.live.com/?id=root&qt=search&q=%keywords%
 ### Github
 https://www.github.com/
 https://www.github.com/search?q=%keywords%
-
 
 # EOF
