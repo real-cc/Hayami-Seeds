@@ -1,6 +1,6 @@
 # Images Sites Templates
 
-# VER 0.001
+# VER 0.002
 
 ## Images
 
@@ -38,7 +38,9 @@ https://giphy.com/
 https://giphy.com/search/%keywords%
 
 ### Wallpapers
-https://wallpapers.com
+https://wallpapers.com/
 https://wallpapers.com/search/%keywords%
+
+
 
 # EOF
