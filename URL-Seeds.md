@@ -1,5 +1,27 @@
 # Default Templates for Hayami
-# VER 0.016
+# VER 0.017
+
+## Search Engine
+
+### Google
+https://www.google.com/
+https://www.google.com/search?q=%keywords%
+
+### Bing
+https://www.bing.com/
+https://www.bing.com/search?q=%keywords%
+
+### DuckDuckGo
+https://duckduckgo.com/
+https://duckduckgo.com/?q=%keywords%
+
+### Brave
+https://search.brave.com/
+https://search.brave.com/search?q=%keywords%&source=web
+
+### WolframAlpha
+https://www.wolframalpha.com
+https://www.wolframalpha.com/input?i=%keywords%
 
 ## Images
 
@@ -135,6 +157,12 @@ https://jisho.org/search/%keywords%
 ### Tiktok
 https://www.tiktok.com/
 https://www.tiktok.com/search/video?q=%keywords%
+
+### facebook
+https://www.facebook.com/
+
+### Instagram
+https://www.instagram.com/
 
 ### Twitter
 https://twitter.com/home
